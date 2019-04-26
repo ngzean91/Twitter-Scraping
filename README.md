@@ -1,3 +1,3 @@
 # Twitter-Scraping
 
-This is the QA folder for twitter scraping algorithms.
+This is the Production folder for twitter scraping algorithms.
